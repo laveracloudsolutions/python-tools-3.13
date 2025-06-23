@@ -1,6 +1,6 @@
 # Python TOOLS 3.13
 
-Docker Images | Python Tools (php, node, java, etc)
+Python Tools (python, node, Jjva, etc) | Docker Images de type Python à destination des dev (avec utilitaires pour "devcontainer")
 
 ## Préparation
 
