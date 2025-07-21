@@ -1,6 +1,8 @@
 # Python TOOLS 3.13
 
-Python Tools (python, node, Jjva, etc) | Docker Images de type Python à destination des dev (avec utilitaires pour "devcontainer")
+Python Tools (Python, NodeJS, Java, etc) 
+
+> Docker Images de type Python à destination des dev (avec utilitaires pour "devcontainer / sonarqube")
 
 ## Préparation (Manuelle)
 
