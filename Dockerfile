@@ -8,6 +8,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Debian package install
 RUN apt-get update && \
+    apt-get upgrade -y && \
     apt-get install --no-install-suggests --no-install-recommends --yes \
     curl=7.88.*  \
     git=1:2.*  \
