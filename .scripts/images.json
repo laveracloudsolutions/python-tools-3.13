@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "folder": ".",
+      "image_tag": "python-tools:3.13-slim-bookworm",
+      "image_additionnal_tag": "",
+      "platforms": "linux/amd64,linux/arm64/v8"
+    }
+  ]
+}
